@@ -1,8 +1,8 @@
 const title = 'Create Ueno App';
 const description = 'The easiest and fastest way to create new projects.';
 
-const favicon = require('assets/images/favicon.png');
-const share = require('assets/images/share.png');
+const favicon = 'assets/images/favicon.png';
+const share = 'assets/images/share.png';
 
 export const helmet = {
   title,

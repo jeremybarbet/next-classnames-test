@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-import { Link as InternalLink } from 'components/link/Link';
+import { Link as InternalLink } from '../../components/link/Link';
 
 import s from './Link.scss';
 

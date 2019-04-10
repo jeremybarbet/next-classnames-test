@@ -1,8 +1,8 @@
 import * as React from 'react';
 
-import { Link } from 'components/link/Link';
+import { Link } from '../../components/link/Link';
 
-import StarterLogo from 'assets/svg/starter-logo.svg';
+import StarterLogo from '../../assets/svg/starter-logo.svg';
 
 import s from './Header.scss';
 

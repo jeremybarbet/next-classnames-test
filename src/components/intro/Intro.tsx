@@ -1,7 +1,7 @@
 import * as React from 'react';
 
-import { Container } from 'components/container/Container';
-import { Row } from 'components/row/Row';
+import { Container } from '../../components/container/Container';
+import { Row } from '../../components/row/Row';
 
 import s from './Intro.scss';
 

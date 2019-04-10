@@ -5,7 +5,7 @@
     // Forbid default export
     "allowSyntheticDefaultImports": false,
     // Base directory to resolve non-relative module names.
-    "baseUrl": ".",
+    "baseUrl": "./src",
     // Import non-ES modules as default imports.
     "esModuleInterop": true,
     // Enables experimental support for ES7 decorators.

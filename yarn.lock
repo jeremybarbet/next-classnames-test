@@ -5353,6 +5353,13 @@ neo-async@^2.5.0:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.0.tgz#b9d15e4d71c6762908654b5183ed38b753340835"
   integrity sha512-MFh0d/Wa7vkKO3Y3LlacqAEeHK0mckVqzDieUKTT+KGxi+zIpeVsFxymkIiRpbpDziHc290Xr9A1O4Om7otoRA==
 
+next-classnames-loader@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/next-classnames-loader/-/next-classnames-loader-1.0.1.tgz#ed780d554e39f139ebb428392ca9c0743437334f"
+  integrity sha512-nrect86CVFBsC9svBlcULOm8fXK2mStXMyaPJvSLTYU/+0zJe6WvQFv3aVmh8WxY/AIQpwZKIeAowmTVO0JkKg==
+  dependencies:
+    loader-utils "1.2.3"
+
 next-compose-plugins@2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/next-compose-plugins/-/next-compose-plugins-2.1.1.tgz#7da0a3ce0c8ce267b5cb4164d2fb6e4aaf61bf86"

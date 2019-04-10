@@ -1,8 +1,8 @@
 import * as React from 'react';
 import GsapDevTools from 'gsap-tools';
 
-import { useKeyDown } from 'hooks/use-keydown';
-import { useLocalStorage } from 'hooks/use-localstorage';
+import { useKeyDown } from '../../hooks/use-keydown';
+import { useLocalStorage } from '../../hooks/use-localstorage';
 
 import s from './GsapTools.scss';
 

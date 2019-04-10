@@ -1,14 +1,11 @@
 import * as React from 'react';
 import Helmet from 'react-helmet';
 
-import { Intro } from 'components/intro/Intro';
+import { Yoyo } from './components/yoyo/Yoyo';
 
 export default () => (
   <>
     <Helmet title="About" />
-
-    <Intro>
-      About page
-    </Intro>
+    <Yoyo />
   </>
 );
